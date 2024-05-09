@@ -1,0 +1,13 @@
+Change logs: 9-5-2024 Herobrine ( entity )
+
+1 - Added a new range to herobrine ( He can track you from 45 blocks away hihi! )
+2 - Added new spawn locations for herobrine: Beach = Savanna = Mangrove swamp.
+3 - Changed the name of the creative tab of ( Herobrine )
+4 - Added a new item: ( Herobrine Alpha sword ) 
+5 - Added a new achievement.
+
+Fixes: 9-5-2024 Herobrine ( entity )
+
+1 - Fixed a crash while killing ( herobrine ) using the physics pro ( mod ) = Exit code :1
+
+ 
