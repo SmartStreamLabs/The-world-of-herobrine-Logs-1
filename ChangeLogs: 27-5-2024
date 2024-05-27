@@ -1,0 +1,30 @@
+Updates: 16-5-2024 = Herobrine = Development: May - developer: Taylor.
+
+Updated the version to: 1.6.11
+
+Changelogs:
+
+1 = Herobrine no longer have a health bar ( In game )
+2 = Herobrine can now open doors./ Tp away to scare you.
+3 = Herobrine now try to avoid water.
+4 = Herobrine can now break doors.
+5 = Herobrine can now close doors.
+6 = Herobrine now gives you darkness when he hits you.
+
+New Update:
+
+
+1 - Added: Herodebris: ( NETHER SPAWN / ORE )
+2 - Added Hero_Scrap.
+3 - Added Hero_Ingot.
+4 - Added Block_Of_Hero.
+5 - Added new tools: Hero Hoe, Hero Pickaxe, Hero axe, Hero shovel, Sword of Hero.
+6 - Added a new Grass block: Hero Grass.
+7 - Added a new block: Hero_Tiles.
+8 - Added a new biome! ( Biome of hero )
+9 - Added: 4 new structures for in game. ( Spawns only in the herobrine biome )
+10 - Every mob entity gives you blindness after hitting you! 
+Fixes: 
+
+1 - Fixed a audio bug while hitting herobrine with health poison.
+2 - Fixed lag caused by herobrine's effects.
